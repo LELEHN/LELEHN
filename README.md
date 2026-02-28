@@ -23,7 +23,7 @@ Me chamo Lethicia Nobre, tenho 20 anos e sou natural de São Paulo. Atualmente, 
         title="Total de estrelas no github"
         src="https://custom-icon-badges.demolab.com/github/stars/LELEHN?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"/>
         </a>
-    <a href="https://www.linkedin.com/in/lethicia-nobre-LINKEDIN/">
+    <a href="https://br.linkedin.com/in/lethicia-nobre-b3b458372">
   <img 
     alt="LinkedIn"
     title="Meu LinkedIn"
